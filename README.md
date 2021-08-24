@@ -1,5 +1,5 @@
 # NoSussyExe
-<img src="https://github.com/Zebratic/NoSussyExe/blob/main/icon.png?raw=true"/>
+<img src="https://github.com/Zebratic/NoSussyExe/blob/main/icon.png?raw=true" width="256" height="256" />
 
  An automatic .NET dumper for executables that you might not trust.
 
