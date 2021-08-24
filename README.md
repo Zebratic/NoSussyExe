@@ -1,6 +1,6 @@
 # NoSussyExe
 <p align="center">
-  <img src="https://github.com/Zebratic/NoSussyExe/blob/main/icon.png?raw=true" width="256" height="256" />
+  <img src="https://raw.githubusercontent.com/Zebratic/NoSussyExe/main/banner.png" width="256" height="256" />
 </p>
 
 
