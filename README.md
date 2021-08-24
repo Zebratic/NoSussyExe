@@ -1,7 +1,5 @@
 # NoSussyExe
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zebratic/NoSussyExe/main/banner.png" width="512" height="256" />
-</p>
+<img src="https://raw.githubusercontent.com/Zebratic/NoSussyExe/main/banner.png" width="512" height="256" />
 
 
 
