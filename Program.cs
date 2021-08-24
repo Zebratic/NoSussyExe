@@ -145,6 +145,7 @@ namespace NoSussyExe
                 }
                 catch
                 {
+                    try { SusProcess.Kill(); } catch { }
                     Console.Clear();
                     while (true)
                     {
