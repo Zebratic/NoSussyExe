@@ -57,19 +57,22 @@ namespace NoSussyExe
                     Environment.Exit(1);
                 }
             }
-            else if (!Utils.IsDotNet(args[0]) || !args[0].Contains(".exe"))
+            else if (!Utils.IsDotNet(args[0]))
             {
-                while (true)
+                if (!args[0].Contains(".exe"))
                 {
-                    string text = "Please only drag & drop valid .NET files!";
-
-                    for (int i = 0; i < text.Length; i++)
+                    while (true)
                     {
-                        Console.Write(text[i].ToString());
-                        Thread.Sleep(5);
+                        string text = "Please only drag & drop valid .NET files!";
+
+                        for (int i = 0; i < text.Length; i++)
+                        {
+                            Console.Write(text[i].ToString());
+                            Thread.Sleep(5);
+                        }
+                        Console.ReadKey();
+                        Environment.Exit(1);
                     }
-                    Console.ReadKey();
-                    Environment.Exit(1);
                 }
             }
 
