@@ -57,7 +57,7 @@ namespace NoSussyExe
                     Environment.Exit(1);
                 }
             }
-            else if (!Utils.IsDotNet(args[0]))
+            else if (!Utils.IsDotNet(args[0]) || !args[0].Contains(".exe"))
             {
                 while (true)
                 {

@@ -1,0 +1,7 @@
+D:\Work\NoSussyExe\obj\Debug\NoSussyExe.csprojAssemblyReference.cache
+D:\Work\NoSussyExe\obj\Debug\NoSussyExe.csproj.CoreCompileInputs.cache
+D:\Work\NoSussyExe\bin\Debug\NoSussyExe.exe.config
+D:\Work\NoSussyExe\bin\Debug\NoSussyExe.exe
+D:\Work\NoSussyExe\bin\Debug\NoSussyExe.pdb
+D:\Work\NoSussyExe\obj\Debug\NoSussyExe.exe
+D:\Work\NoSussyExe\obj\Debug\NoSussyExe.pdb
