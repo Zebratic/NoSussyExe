@@ -7,6 +7,7 @@ An automatic .NET dumper for executables that you might not trust.
 
 ## Notice
 - THE DUMPER WORKS FOR .NET ONLY!
+- If NoSussyExe requests administrator privileges, it can be because of the executable you drag & dropped can contain a bypass.
 - Currently some issues can happen with the thread suspension causing the program to run anyway <- THIS WILL BE FIXED REALLY SOON!
 
 ## Features
