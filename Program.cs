@@ -167,10 +167,10 @@ namespace NoSussyExe
 
                 while (true)
                 {
+                    Utils.SuspendProcess(ProcessID);
+
                     if (Utils.GetCLRModule(ProcessID))
                     {
-                        Utils.SuspendProcess(ProcessID);
-
                         lineCount++;
                         Console.SetCursorPosition(40, lineCount);
                         Console.WriteLine($"{Path.GetFileName(SusExePath)} has been loaded!");
